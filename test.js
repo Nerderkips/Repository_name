@@ -1,1 +1,3 @@
-console.log("testing");
+function test(){
+	console.log("Hello World");
+} 
